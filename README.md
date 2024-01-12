@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :telephone_receiver: CONTACT
-<a href = ""> <img alt="julia3277@naver.com" src ="https://img.shields.io/badge/gmail-E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href = ""> <img alt="julia3277@naver.com" src ="https://img.shields.io/badge/gmail-E4405F.svg" /></a>
 <a href = "https://velog.io/@zeonzeon-e/posts"> <img alt="velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
 <hr>
 
