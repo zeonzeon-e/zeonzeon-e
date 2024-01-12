@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt="Recoil" src ="https://img.shields.io/badge/Recoil-3578E5.svg?&style=for-the-badge&logo=Recoil&logoColor=white"/>
 <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/>
+<img alt="yarn" src ="https://img.shields.io/badge/yarn-2C8EBB.svg?&style=for-the-badge&logo=yarn&logoColor=white"/>
+<img alt="npm" src ="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
+<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeonzeon-e&count_bg=%234F4F4F&title_bg=%23000E7B&icon=&icon_color=%2383B9FF&title=welcome&edge_flat=false)](https://hits.seeyoufarm.com)
