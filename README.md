@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### :telephone_receiver: CONTACT
 <a href = "https://www.instagram.com/ezh._.713/"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-000000.svg?&style=for-the-badge&logo=Instagram&"/> </a>
+<a href = "https://www.instagram.com/ezh._.713/"> <img alt="velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&"/> </a>
 <hr>
 
 ### :books: STACKS
