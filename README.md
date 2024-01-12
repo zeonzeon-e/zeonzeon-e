@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 :telephone_receiver: CONTACT
 <hr>
-<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-<img alt="HTML" src ="https://img.shields.io/badge/React-000000.svg?&style=for-the-badge&logo=react&logoColor=#61DAFB"/>
+<img alt="React" src ="https://img.shields.io/badge/HTML5-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+<img alt="HTML" src ="https://img.shields.io/badge/React-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
 
 
