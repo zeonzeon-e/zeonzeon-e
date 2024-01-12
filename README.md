@@ -1,7 +1,4 @@
 ## Thanks you for visit 👋
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeonzeon-e&count_bg=%234F4F4F&title_bg=%23399EE5&icon=&icon_color=%2383B9FF&title=welcome&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeonzeon-e&layout=compact)](https://github.com/zeonzeon-e/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeonzeon-e&show_icons=true&theme=shadow_blue&card_width=200&hide_title=true)
 
