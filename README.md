@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 :telephone_receiver: CONTACT
 <hr>
-<img alt="이미지명" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="이미지명" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
 <img alt="이미지명" src ="https://img.shields.io/badge/React-000000.svg?&style=for-the-badge&logo=react&logoColor=#61DAFB"/>
 <img alt="이미지명" src ="https://img.shields.io/badge/React-000000.svg?&style=for-the-badge&logo=react&logoColor=#61DAFB"/>
 
