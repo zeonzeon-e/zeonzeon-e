@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <hr>
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
 <img alt="HTML" src ="https://img.shields.io/badge/React-000000.svg?&style=for-the-badge&logo=react&logoColor=#61DAFB"/>
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
 
 
 출처: https://kimasill.tistory.com/entry/Github-깃허브-프로필-꾸미기 [널디 코드 일기:티스토리]
