@@ -1,5 +1,4 @@
 ## Thanks you for visit 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeonzeon-e&show_icons=true&theme=shadow_blue&card_width=200&hide_title=true)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mattie0713)](https://solved.ac/{handle})
 
 ## :mailbox_with_mail: CONTACT
