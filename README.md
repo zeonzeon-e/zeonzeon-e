@@ -1,5 +1,4 @@
 ## Thanks you for visit 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeonzeon-e&layout=compact)](https://github.com/zeonzeon-e/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeonzeon-e&show_icons=true&theme=shadow_blue&card_width=200&hide_title=true)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mattie0713)](https://solved.ac/{handle})
 
